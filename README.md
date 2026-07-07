@@ -97,8 +97,8 @@ python main.py setup
 ```bash
 python main.py
 ```
-
-### Sample output
+### Sample run
+<img width="739" height="128" alt="Screenshot 2026-07-07 at 2 56 43 PM" src="https://github.com/user-attachments/assets/6849ee4c-3b66-4def-884c-fa512aff8ba0" />### Sample output
 
 ```json
 {

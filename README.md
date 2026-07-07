@@ -98,7 +98,10 @@ python main.py setup
 python main.py
 ```
 ### Sample run
-<img width="739" height="128" alt="Screenshot 2026-07-07 at 2 56 43 PM" src="https://github.com/user-attachments/assets/6849ee4c-3b66-4def-884c-fa512aff8ba0" />### Sample output
+<img width="739" height="128" alt="Screenshot 2026-07-07 at 2 56 43 PM" src="https://github.com/user-attachments/assets/6849ee4c-3b66-4def-884c-fa512aff8ba0" />
+This image signals to the reader what they're about to see before they see it
+
+### Sample output
 
 ```json
 {
